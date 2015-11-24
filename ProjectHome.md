@@ -1,0 +1,3 @@
+A MSc project that researches the usefulness of association rules mining as a personalization technique in mobile applications.
+Lear is an Android mobile news reader application, implementing association rules that allows personalization of news items according to the user’s reading behaviour.
+The association rule engine employs A priori algorithm to process users’ news selections, extracts rules and applies them to future news items. News are retrieved from RSS feeds dynamically .
